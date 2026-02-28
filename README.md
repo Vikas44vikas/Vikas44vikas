@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Vikas Khushwaha  
-**A passionate Artificial Intelligence || Blockchain Developer**
+**A passionate WebDeveloper || Java**
 
 Email Me 👉 ✉️ **vikasmaurya884422@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
 
-- 🌱 **I’m currently learning:** DATA ANALYTICS  
+- 🌱 **I’m currently learning:** JAVA DEVELOPER
 - 💬 **Ask me about:** Tech Support  
 - 📫 **How to reach me:** vikasmaurya884422@gmail.com  
 - 😄 **Pronouns:** Vikas Khushwaha  
@@ -12,8 +12,8 @@ Email Me 👉 ✉️ **vikasmaurya884422@gmail.com** For Collaboration/Project o
 ## 🔗 I am a AI Specialist. 😊😊  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vikas44vikas) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kumar-yadav-5595b4324) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikaskushwaha_44) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-kushwaha-ab743a254) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Vikas44vikas) 
 ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
