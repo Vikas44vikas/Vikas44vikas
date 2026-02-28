@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vikas Khushwaha  
-**A passionate WebDeveloper || Java**
+**A passionate Java Developer || Core Java**
 
 Email Me 👉 ✉️ **vikasmaurya884422@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
 
@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **vikasmaurya884422@gmail.com** For Collaboration/Project o
 - 😄 **Pronouns:** Vikas Khushwaha  
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me  
 
-## 🔗 I am a AI Specialist. 😊😊  
+## 🔗 I am a Java Developer. 😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikaskushwaha_44) 
